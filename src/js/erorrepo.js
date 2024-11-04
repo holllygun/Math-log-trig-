@@ -9,7 +9,7 @@ export default class ErrorRepository {
             const description = getReasonPhrase(numericCode);
             this.errors.set(numericCode, description);
         } catch (error) {
-            
+            console.error(`Не получена фраза для ошибки ${numericCode}:`, error);
         }
     }
  }
