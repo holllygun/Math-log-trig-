@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7tux5gtoq6dm0y7j?svg=true)](https://ci.appveyor.com/project/holllygun/maps-and-sets)
