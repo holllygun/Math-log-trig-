@@ -30,7 +30,7 @@ test ('Add All members', () => {
     expect(newTeam.members.size).toBe(3);
 })
 
-test ('Add All members', () => {
+test ('Add All members to array', () => {
     const memberOne = new Character("Legolas", "Zombie");
     const memberTwo = new Character("Richard", "Bowman");
     const memberThree = new Character("Anri", "Zombie");
