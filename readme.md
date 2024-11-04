@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/7tux5gtoq6dm0y7j?svg=true)](https://ci.appveyor.com/project/holllygun/maps-and-sets)
+[![Build status](https://ci.appveyor.com/api/projects/status/j933lrfnjfv2bwi5?svg=true)](https://ci.appveyor.com/project/holllygun/math-log-trig)
